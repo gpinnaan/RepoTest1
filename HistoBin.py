@@ -1,12 +1,10 @@
 #! /usr/bin/env python
 
 
-
 # bin = 0;       underflow bin
 # bin = 1;       first bin with low-edge xlow INCLUDED
 # bin = nbins;   last bin with upper-edge xup EXCLUDED
 # bin = nbins+1; overflow bin
-
 
 
 import ROOT, copy
@@ -33,8 +31,9 @@ print "integral 0,10          ",h1.Integral(0,10)
 print "integral 0,-1          ",h1.Integral(0,-1)
 print "integral 0,xbins+1     ",h1.Integral(0,11)
 
-#h1.Draw("hist")
 
+# boh
+#h1.Draw("hist")
 #CloseVar=input("digit anything you want to end the script \n")        
 #for i in range(0,10):
  #   print i

@@ -46,7 +46,7 @@ SingleEle2016H ,SingEle  , -1,   ,, /SingleElectron/Run2016H-PromptReco-v2/MINIA
 Data ,,                    -1,   ,, ,, # To run merge of data
 
 
-##,,,,,,, # Official Spring 2016 samples
+##Official Spring 2016 samples##,,,,,,,,,,,  
 
 
 ZZTo4l,qq_ZZ,            1.212,       ,,/ZZTo4L_13TeV_powheg_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM,dbs,,4,PROCESS_CR=True;SKIM_REQUIRED=False,,
@@ -62,7 +62,7 @@ ggZZ2e2mu,gg_4l,          0.00380717 ,  ,,/GluGluToHiggs0MContinToZZTo2e2mu_M125
 ggZZ4mu,gg_4l,            0.00192701,   ,,/GluGluToHiggs0MContinToZZTo4mu_M125_GaSM_13TeV_MCFM701_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM,dbs,,1,PROCESS_CR=False;SKIM_REQUIRED=False,,
 ggZZ4e,gg_4l,             0.00192701,  ,,/GluGluToHiggs0MContinToZZTo4e_M125_GaSM_13TeV_MCFM701_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM,dbs,,1,PROCESS_CR=False;SKIM_REQUIRED=False,,
 
-##,,,,,,, # Reducible background
+##Reducible background##,,,,,,,,,,,  
 
 
 DYJetsToLL_M50,Z,         6025.2,      ,,/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM,dbs,,4,PROCESS_CR=True,,
@@ -73,11 +73,13 @@ WWW,triboson,            -1,          ,,/WWW_4F_TuneCUETP8M1_13TeV-amcatnlo-pyth
 WZ,WZ,                   4.42965,     ,,/WZTo3LNu_TuneCUETP8M1_13TeV-powheg-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM,dbs,,4,PROCESS_CR=True,,
 ZGTo2LG,ZG,              117.864,     ,,/ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM,dbs,,4,PROCESS_CR=True,,
 
-##,,,,,,, # Irreducible background
+## Irreducible background ##,,,,,,,,,,,  
+
 
 TTZToLL,,                -1,          ,,/TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM,dbs,,4,PROCESS_CR=False,,
 WWZ,triboson,            -1,          ,,/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM,dbs,,4,PROCESS_CR=False,,                                       
 
-##,,,,,,, # For test
+##For test##,,,,,,,,,,,  
+
 
 ZZ4lAnalysis,,            -1,          ,,/test_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM,dbs,,4,PROCESS_CR=False,,       # To test small  local production 

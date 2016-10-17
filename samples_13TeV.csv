@@ -1,7 +1,6 @@
 identifier,process,crossSection=-1,BR=1,execute=True,dataset,prefix,pattern,splitLevel,::variables,::pyFragments,comment
 
 ###,,,,,,,,,,,Data 
-
 DoubleMu2016B  ,DoubleMu,  -1,   ,, /DoubleMuon/Run2016B-PromptReco-v2/MINIAOD,dbs,,2,PD=DoubleMu,json_2016.py,
 DoubleEG2016B  ,DoubleEle, -1,   ,, /DoubleEG/Run2016B-PromptReco-v2/MINIAOD,dbs,,2,PD=DoubleEle,json_2016.py,
 MuonEG2016B    ,MuEG,      -1,   ,, /MuonEG/Run2016B-PromptReco-v2/MINIAOD,dbs,,2,PD=MuEG,json_2016.py,

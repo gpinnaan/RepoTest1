@@ -42,4 +42,4 @@ DoubleEG2016H  ,DoubleEle, -1,   ,, /DoubleEG/Run2016H-PromptReco-v2/MINIAOD,dbs
 MuonEG2016H    ,MuEG     , -1,   ,, /MuonEG/Run2016H-PromptReco-v2/MINIAOD,dbs,,2,PD=MuEG;,json_2016.py,
 SingleEle2016H ,SingEle  , -1,   ,, /SingleElectron/Run2016H-PromptReco-v2/MINIAOD,dbs,,5,PD=SingleElectron;,json_2016.py,
 
-##,,,,,,,,,,, # Official Spring 2016 samples
+##Official Spring 2016 samples##,,,,,,,,,,,  

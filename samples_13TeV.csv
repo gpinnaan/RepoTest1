@@ -43,7 +43,7 @@ MuonEG2016H    ,MuEG     , -1,   ,, /MuonEG/Run2016H-PromptReco-v2/MINIAOD,dbs,,
 SingleEle2016H ,SingEle  , -1,   ,, /SingleElectron/Run2016H-PromptReco-v2/MINIAOD,dbs,,5,PD=SingleElectron;,json_2016.py,
 
 
-Data ,,                    -1,   ,, ,, # To run merge of data
+Data ,,                    -1,   ,, ,, ,,,,# To run merge of data
 
 
 ##Official Spring 2016 samples##,,,,,,,,,,,  

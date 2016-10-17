@@ -41,9 +41,6 @@ DoubleMu2016H  ,DoubleMu , -1,   ,, /DoubleMuon/Run2016H-PromptReco-v2/MINIAOD,d
 DoubleEG2016H  ,DoubleEle, -1,   ,, /DoubleEG/Run2016H-PromptReco-v2/MINIAOD,dbs,,2,PD=DoubleEle;,json_2016.py,
 MuonEG2016H    ,MuEG     , -1,   ,, /MuonEG/Run2016H-PromptReco-v2/MINIAOD,dbs,,2,PD=MuEG;,json_2016.py,
 SingleEle2016H ,SingEle  , -1,   ,, /SingleElectron/Run2016H-PromptReco-v2/MINIAOD,dbs,,5,PD=SingleElectron;,json_2016.py,
-
-
-Data ,,                    -1,   ,, ,, # To run merge of data
  
 ZZTo4l,qq_ZZ,            1.212,       ,,/ZZTo4L_13TeV_powheg_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM,dbs,,4,PROCESS_CR=True;SKIM_REQUIRED=False,,
 ZZTo4lamcatnlo,qq_ZZ,    1.212,       ,,/ZZTo4L_13TeV-amcatnloFXFX-pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM,dbs,,4,PROCESS_CR=False;SKIM_REQUIRED=False,, # Xsection from the gen: 1.218

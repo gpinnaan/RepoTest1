@@ -45,7 +45,7 @@ SingleEle2016H ,SingEle  , -1,   ,, /SingleElectron/Run2016H-PromptReco-v2/MINIA
 
 Data ,,                    -1,   ,, ,, # To run merge of data
 
- 
+
 ##,,,,,,, # Official Spring 2016 samples
 
 
@@ -81,6 +81,3 @@ WWZ,triboson,            -1,          ,,/WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8
 ##,,,,,,, # For test
 
 ZZ4lAnalysis,,            -1,          ,,/test_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM,dbs,,4,PROCESS_CR=False,,       # To test small  local production 
-
-
-

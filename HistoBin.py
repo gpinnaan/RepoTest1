@@ -1,14 +1,10 @@
 #! /usr/bin/env python
-# test
 
 # bin = 0;       underflow bin
 # bin = 1;       first bin with low-edge xlow INCLUDED
 # bin = nbins;   last bin with upper-edge xup EXCLUDED
 # bin = nbins+1; overflow bin
 
-#test
-
-#test 2
 import ROOT, copy
 from ROOT import TH1F
 
